@@ -12,4 +12,9 @@ Although data-driven edge detectors achieve superior performance, they demand mo
 *Model structure*
 </center>
 
+<div style="text-align:center;">
+| ![Model Structure](imgs/struct.png) |
+|------------|
+| *Model structure* |
+</div>
 
