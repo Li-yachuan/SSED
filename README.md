@@ -13,4 +13,4 @@ Although data-driven edge detectors achieve superior performance, they demand mo
 *Model structure*
 
 
-# Coming Soon
+# Coming Soon ...
