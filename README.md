@@ -7,4 +7,6 @@ Although data-driven edge detectors achieve superior performance, they demand mo
 
 
 
+![Model Structure](imgs/z_struct.png)
+
 
