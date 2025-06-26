@@ -13,4 +13,12 @@ Although data-driven edge detectors achieve superior performance, they demand mo
 *Model structure*
 
 
+## Semi Edge Detection Datasets
+
+The Semi-BSDS dataset is sourced from [UAED](https://github.com/ZhouCX117/UAED_MuGE), and the unsupervised part is [Pascal dataset collected by RCF](https://github.com/yun-liu/RCF)
+The supervised part of Semi-NYUDv2 follows [RCF](https://github.com/yun-liu/RCF), and the unsupervised part is [SUN RGB-D](https://rgbd.cs.princeton.edu/)
+The supervised part of Semi-BIPED dataset is derived from [BIPED](https://github.com/xavysp/MBIPED), and the unsupervised part is [here](https://drive.google.com/file/d/1c3u5tYuPFg9FGrmOsh921XMnZ56CbWpK/view?usp=sharing)
+
+After the paper is accepted, we will further organize and refine the datasets.
+
 # Coming Soon ...
