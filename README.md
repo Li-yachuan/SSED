@@ -22,5 +22,3 @@ The supervised part of Semi-NYUDv2 follows [RCF](https://github.com/yun-liu/RCF)
 The supervised part of Semi-BIPED dataset is derived from [BIPED](https://github.com/xavysp/MBIPED), and the unsupervised part is [here](https://drive.google.com/file/d/1c3u5tYuPFg9FGrmOsh921XMnZ56CbWpK/view?usp=sharing)
 
 After the paper is accepted, we will further organize and refine the datasets.
-
-# Coming Soon ...
